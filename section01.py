@@ -1,3 +1,11 @@
+"""
+1. 기본 출력
+2. Separator 옵션
+3. End 옵션
+4. Format 옵션
+5. %s: 문자, %d: 정수, %f: 실수
+6. Escape Code
+"""
 # 기본 출력
 print("---기본 출력---")
 print('Hello, Python!')
